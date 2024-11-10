@@ -1,5 +1,5 @@
 
-# Hello! I am a programmer 🌟
+# Hello! I am a programmer
 
 My name is George, I am 23 years old. I am an independent developer with extensive experience in programming and web development.
 
@@ -21,7 +21,7 @@ My experience in web development includes:
 - **Nginx**: configuring and managing web servers.
 - **React**: building single-page applications.
 
-## 🚀 Projects
+## Projects
 
 I have worked on various projects, ranging from small applications to more complex systems. My work includes both individual projects and team development.
 
@@ -32,8 +32,6 @@ If you want to get in touch with me, you can use the following methods:
 - Email: [faso.312@yandex.ru](mailto:faso.312@yandex.ru)
 - Phone: 89027495942
 
-## 😴 Other
+## Other
 
 Also sleep deprived
-
-Let’s work together! 🚀
