@@ -29,8 +29,14 @@ I have worked on various projects, ranging from small applications to more compl
 
 If you want to get in touch with me, you can use the following methods:
 
-- Email: [faso.312@yandex.ru](mailto:faso.312@yandex.ru)
-- Phone: 89027495942
+## Connect with Me
+
+Here are some more ways to connect:
+
+- **Hugging Face**: [🫂 My Hugging Face Profile](https://huggingface.co/faso312)
+- **Telegram**: [✈️ Chat on Telegram](https://t.me/Faso312)
+- **Email**: [faso.312@yandex.ru](mailto:faso.312@yandex.ru)
+- **Phone**: 89027495942
 
 ## Other
 
