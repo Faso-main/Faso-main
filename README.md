@@ -33,8 +33,8 @@ If you want to get in touch with me, you can use the following methods:
 
 Here are some more ways to connect:
 
-- **Hugging Face**: [🫂 My Hugging Face Profile](https://huggingface.co/faso312)
-- **Telegram**: [✈️ Chat on Telegram](https://t.me/Faso312)
+- **Hugging Face**: [My Hugging Face Profile](https://huggingface.co/faso312)
+- **Telegram**: [Chat on Telegram](https://t.me/Faso312)
 - **Email**: [faso.312@yandex.ru](mailto:faso.312@yandex.ru)
 - **Phone**: 89027495942
 
